@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Burypoint.iml" filepath="$PROJECT_DIR$/.idea/modules/Burypoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Burypoint_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Burypoint_main.iml" group="Burypoint" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Burypoint_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Burypoint_test.iml" group="Burypoint" />
+    </modules>
+  </component>
+</project>
